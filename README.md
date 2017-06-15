@@ -1,12 +1,35 @@
-# Overview
+## Overview
+
+```
 Item catalog [Udacity Project]
 
-# To run the application:
-To Setup DB 
-$python database_setup.py
+```
 
-To Add sample data
+## Tech Stack
+Python
+Flask
+SQLLite
+Vagrant VM
+Google Auth
+
+
+## Run the project
+
+**To create Database**
+```
+$python database_setup.py
+```
+
+**Add Test data**
+
+```
 $ python sample_data.py
 
-To Run application
+```
+
+**Run application**
+
+```
 $ python project.py
+
+```
