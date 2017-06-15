@@ -1,13 +1,12 @@
 # Overview
-Project :- Item Catalog application using Flask Framework
-
-$ sudo pip install requests
-
-
-# Features
-
-# Components
+Item catalog [Udacity Project]
 
 # To run the application:
+To Setup DB 
+$python database_setup.py
 
-# License
+To Add sample data
+$ python sample_data.py
+
+To Run application
+$ python project.py
